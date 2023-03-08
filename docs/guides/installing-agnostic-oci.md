@@ -108,7 +108,7 @@ git clone -b feat-added-provider-oci --recursive \
 ```bash
 $ ansible-galaxy collection list |egrep "(okd_installer|^oracle)"
 mtulio.okd_installer 0.0.0-latest
-oracle.oci           4.11.0 
+oracle.oci           4.11.0
 ```
 
 ### Setup OCI credentials
